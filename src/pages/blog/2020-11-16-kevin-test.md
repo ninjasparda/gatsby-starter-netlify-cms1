@@ -1,12 +1,13 @@
 ---
+path: abc
 templateKey: blog-post
-title: kevin test
-date: 2020-11-16T07:00:13.860Z
-description: kevin test
-featuredpost: false
 featuredimage: /img/blog-index.jpg
+featuredpost: false
+date: 2020-11-16T07:00:13.860Z
+title: kevin test
 tags:
   - kevin
+description: kevin test
 ---
 > # Redocly API developer portal
 
@@ -65,3 +66,5 @@ We sell green and roasted coffee beans that are sourced directly from independen
 ![](https://agitated-varahamihira-dd2be6.netlify.app/static/ec437153a2bd67b99cd975bf10c03292/1a97c/coffee-gear.png)
 
 We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop.
+
+![](/static/assets/1-1.png)
